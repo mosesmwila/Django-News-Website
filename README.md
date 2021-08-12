@@ -1,17 +1,19 @@
-MuAfrica
-A simple Kotlin WebView app in android studio.
+Kumwesu News
+Is simple News Website Built with Django 3 and Bootsrap.
+
 Models
------------------------
-Category
+------------
+1.Category
 - Title
 - Image
-News
+
+2.News
 - Category
 - Title
 - Image
 - Detail
 
-Comments
+3.Comments
 - News
 - Name
 - Email
@@ -19,7 +21,7 @@ Comments
 - Status
 
 Templates
------------------------
+------------
 - views.py
 - urls.py
 - project/urls.py
