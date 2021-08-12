@@ -1,5 +1,5 @@
 Kumwesu News
-Is simple News Website Built with Django 3 and Bootsrap.
+Is simple News Website Built with Django 3 and Bootstrap.
 
 Models
 ------------
